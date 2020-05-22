@@ -1,3 +1,4 @@
+install.packages('ggplot2')
 library(ggplot2)
 
 # X ~ N(50, 10^2)から抽出された標本(n = 373)
